@@ -1,8 +1,8 @@
 # Learner, developer, designer, photographer, writer!
 
 ## Learn
-- Front-end (JS, Node, React, TypeScript)
-- Back-end (Python, Flask)
+- Front-end (ex. Vite, Node, React, TypeScript)
+- Back-end (ex. Python, Flask)
 - Blockchain & Web3
 - AI 
 
