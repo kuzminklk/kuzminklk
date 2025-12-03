@@ -1,10 +1,19 @@
-# Learner, developer, designer, photographer, writer!
 
-## Learn
-- Front-end (ex. Vite, Node, React, TypeScript)
-- Back-end (ex. Python, Flask)
-- Blockchain & Web3
-- AI 
+### Skils
+## Programming languages
+- C
+- Python
+- JavaScript → TypeScript
+## Technologies
+# Front-end
+- HTML, CSS, JS
+  ↓
+- React
+# Back-end
+- Node-js → Express, MongoDB
+- Flask
+# Fullstack
+- MERN stack
 
 ## Favorite projects
 - [Personal website](https://kuzminklk.vercel.app/)
