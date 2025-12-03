@@ -12,16 +12,16 @@
 ## Technologies
 - Git, GitHub
 
-### Web → Front-end
+*** Web → Front-end ***
 - HTML, CSS, JS
   ↓
 - React
 
-### Web → Back-end
+*** Web → Back-end ***
 - Node-js → Express, MongoDB
 - Flask
 
-### Web → Fullstack
+*** Web → Fullstack ***
 - MERN stack
 
 ## General theory
@@ -49,8 +49,11 @@
 - Literature
 - Arts
 
+<br>
+
 # Favorite projects
 
+<br>
 
 - [Personal website](https://kuzminklk.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
