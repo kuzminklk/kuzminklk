@@ -1,7 +1,6 @@
 
 # Computer science skills
-
-
+<br>
 ## Programming languages
 - C
 - Python
