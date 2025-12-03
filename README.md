@@ -1,20 +1,35 @@
 
-# Skills
+# Computer science skills
 ## Programming languages
 - C
 - Python
 - JavaScript → TypeScript
 ## Technologies
-### Front-end
+### Git, GitHub
+### Web → Front-end
 - HTML, CSS, JS
   ↓
 - React
-### Back-end
+### Web → Back-end
 - Node-js → Express, MongoDB
 - Flask
-### Fullstack
+### Web → Fullstack
 - MERN stack
+## General theory
+- Programming styles → paradigms
+- Programming architectures (MVC, Onion, Three layers)
 
-## Favorite projects
+# Soft skills
+- Descipline
+- Self-education
+- Communication
+
+# Side skills
+- Sport
+- Photography
+- Literature
+- Arts
+
+# Favorite projects
 - [Personal website](https://kuzminklk.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
