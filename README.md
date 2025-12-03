@@ -14,7 +14,7 @@
 
 ### General theory
 - Programming styles → paradigms
-- Programming architectures (MVC, Onion, Three layers)
+- Programming architectures (MVC, Onion, Three layers, Client — Server)
 
 ## Soft skills
 - Descipline
