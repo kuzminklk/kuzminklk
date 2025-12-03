@@ -1,59 +1,32 @@
+## Computer science skills
 
-<br>
-
-# Computer science skills
-<br>
-
-## Programming languages
+### Programming languages
 - C
 - Python
 - JavaScript → TypeScript
-- 
-## Technologies
+  
+### Technologies
 - Git, GitHub
-- 
-** Web → Front-end **
-- HTML, CSS, JS
-  ↓
-- React
+- Web → Front-end: HTML, CSS, JS → React
+- Web → Back-end: Node-js → Express, MongoDB, Flask
+- Web → Fullstack: MERN stack
+- Databases: MongoDB, MySQL
 
-** Web → Back-end **
-- Node-js → Express, MongoDB
-- Flask
-
-** Web → Fullstack **
-- MERN stack
-
-## General theory
+### General theory
 - Programming styles → paradigms
 - Programming architectures (MVC, Onion, Three layers)
 
-<br>
-
-# Soft skills
-
-<br>
-
+## Soft skills
 - Descipline
 - Self-education
 - Communication
 
-<br>
-
-# Side skills
-
-<br>
-
+## Side skills
 - Sport
 - Photography
 - Literature
 - Arts
 
-<br>
-
-# Favorite projects
-
-<br>
-
+## Favorite projects
 - [Personal website](https://kuzminklk.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
