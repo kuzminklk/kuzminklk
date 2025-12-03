@@ -28,15 +28,21 @@
 - Programming styles → paradigms
 - Programming architectures (MVC, Onion, Three layers)
 
+<br>
+
 # Soft skills
 
+<br>
 
 - Descipline
 - Self-education
 - Communication
 
+<br>
+
 # Side skills
 
+<br>
 
 - Sport
 - Photography
