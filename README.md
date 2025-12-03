@@ -1,18 +1,18 @@
 
-### Skils
+# Skills
 ## Programming languages
 - C
 - Python
 - JavaScript → TypeScript
 ## Technologies
-# Front-end
+### Front-end
 - HTML, CSS, JS
   ↓
 - React
-# Back-end
+### Back-end
 - Node-js → Express, MongoDB
 - Flask
-# Fullstack
+### Fullstack
 - MERN stack
 
 ## Favorite projects
