@@ -14,6 +14,10 @@ Speak three languages: English, Russian, Belarusian
 **Tools**: Docker, Git, GitHub, Notion, VS Code  
 **AI**: LLMs (Gemini, ChatGPT, Deepseek), agents  
 
+## Contact
+
+[Telegram](https://t.me/kuzminklk)
+
 ## Favorite projects
 - [Personal website](https://kuzminklk.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
