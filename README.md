@@ -1,8 +1,18 @@
 # 👋 Hi, I'm Daniil 
 
-Computer-science engineer, currently focused on web-3, Ethereum ecosystem and front-end.  
+***Computer-science engineer***, currently focused on web-3, Ethereum ecosystem and front-end.  
 Also I [do sports](https://www.tiktok.com/@kuzminklk), [take photos](https://unsplash.com/@kuzminklk) and read [a lot of books](https://kuzminklk.notion.site/31154d4de0358084adcdf9aca595fa2f?v=31154d4de035802ca521000ca4f6f8f9&source=copy_link) (from Dawkins to Noah Harari, from Tolstoy to Tolstoy). Full of enthusiasm! 💪  
 Speak three languages: English, Russian, Belarusian  
+
+## Skills
+
+**Fundamentals**: C, Operational Systems (Windows, Linux, Android), Algorityhms, Data Structures, Web(IP/TCP, HTTPS), Hardware  
+**Front-end**: HTML, CSS, JavaScript → React, TypeScript, Next.js  
+**Back-end**: Python → Django, JavaScript → Node.js, Express → Next.js  
+**Blockchain**: Solidity, Foundry, Hardhat  
+**Web-3** Front-end: viem, ethers.js, Playwrith  
+**Tools**: Docker, Git, GitHub, Notion, VS Code  
+**AI**: LLMs (Gemini, ChatGPT, Deepseek), agents  
 
 ## Favorite projects
 - [Personal website](https://kuzminklk.vercel.app/)
