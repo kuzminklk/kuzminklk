@@ -14,7 +14,7 @@ Speak three languages: English, Russian, Belarusian
 **Tools**: Docker, Git, GitHub, Notion, VS Code  
 **AI**: LLMs (Gemini, ChatGPT, Deepseek), agents  
 **Soft-skills**: Communication, Discipline, Education, Health and Activity, Information Diving  
-*Design* → *Photos*, *Web-design*, *Drawing*; *Music*; *Sports*; *Writing*
+***Additional***: *Design* → *Photos*, *Web-design*, *Drawing*; *Music* → *Guitar*; *Sports* → *Wrestling*; *Writing* → *Poetry*, *Philosophy essay*
 
 ## 🔗 Connect
 
