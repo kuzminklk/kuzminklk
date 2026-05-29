@@ -1,31 +1,8 @@
-## Computer science skills
+# 👋 Hi, I'm Daniil 
 
-### Programming languages
-- C
-- Python
-- JavaScript → TypeScript
-  
-### Technologies
-- Git, GitHub
-- Web → Front-end: HTML, CSS, JS → React
-- Web → Back-end: Node-js → Express, MongoDB, Flask
-- Web → Fullstack: MERN stack
-- Databases: MongoDB, MySQL
-
-### General theory
-- Programming styles → paradigms
-- Programming architectures (MVC, Onion, Three layers, Client — Server)
-
-## Soft skills
-- Descipline
-- Self-education
-- Communication
-
-## Side skills
-- Sport
-- Photography
-- Literature
-- Arts
+Computer-science engineer, currently focused on web-3, Ethereum ecosystem and front-end.  
+Also I [do sports](https://www.tiktok.com/@kuzminklk), [take photos](https://unsplash.com/@kuzminklk) and read [a lot of books](https://kuzminklk.notion.site/31154d4de0358084adcdf9aca595fa2f?v=31154d4de035802ca521000ca4f6f8f9&source=copy_link) (from Dawkins to Noah Harari, from Tolstoy to Tolstoy). Full of enthusiasm! 💪  
+Speak three languages: English, Russian, Belarusian  
 
 ## Favorite projects
 - [Personal website](https://kuzminklk.vercel.app/)
