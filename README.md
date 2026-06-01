@@ -18,10 +18,10 @@ Speak three languages: English, Russian, Belarusian
 
 ## 🔗 Connect
 
-[Telegram](https://t.me/kuzminklk)—quick message, photos 📸, sports 💪
-[TikTok](https://www.tiktok.com/@kuzminklk)—sports 🤸
-[Unsplash](https://unsplash.com/@kuzminklk)—photos 🖼️
-[Instagram](https://www.instagram.com/kuzminklk/)—photos of me 🧔‍♂️
+[Telegram](https://t.me/kuzminklk)—quick message, photos 📸, sports 💪  
+[TikTok](https://www.tiktok.com/@kuzminklk)—sports 🤸  
+[Unsplash](https://unsplash.com/@kuzminklk)—photos 🖼️  
+[Instagram](https://www.instagram.com/kuzminklk/)—photos of me 🧔‍♂️  
 
 ## 🔧 Favorite projects
 - [Personal website](https://kuzminklk.vercel.app/)
