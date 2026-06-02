@@ -16,13 +16,13 @@ Speak three languages: English, Russian, Belarusian
 **Soft-skills**: Communication, Discipline, Education, Health and Activity, Information Diving  
 ***Additional***: *Design* → *Photos*, *Web-design*, *Drawing*; *Music* → *Guitar*; *Sports* → *Wrestling*; *Writing* → *Poetry*, *Philosophy essays*
 
-## 🔗 Connect
+## 🤝 Connect
 
 [Telegram](https://t.me/kuzminklk)—quick message, photos 📸, sports 💪  
 [TikTok](https://www.tiktok.com/@kuzminklk)—sports 🤸  
 [Unsplash](https://unsplash.com/@kuzminklk)—photos 🖼️  
 [Instagram](https://www.instagram.com/kuzminklk/)—photos of me 🧔‍♂️  
 
-## 🔧 Favorite projects
+## 💼 Favorite projects
 - [Personal website](https://kuzminklk.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
