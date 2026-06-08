@@ -24,5 +24,17 @@ Speak three languages: English, Russian, Belarusian
 ***Additional***: *Design* → *Photos*, *Web-design*, *Drawing*; *Music* → *Guitar*; *Sports* → *Wrestling*; *Writing* → *Poetry*, *Philosophy essays*
 
 ## 💼 Selected projects
+**Web 3**  
+- [ERC-20 token](https://github.com/kuzminklk/erc-20)
+- [NFT](https://github.com/kuzminklk/nft)
+- [Algorithmic stablecoin](https://github.com/kuzminklk/stablecoin)
+- [Cross-chain rebase token](https://github.com/kuzminklk/rebase-token)
+- [Airdrop via Merkle Tree and with sign feature](https://github.com/kuzminklk/airdrop)
+- [Upgradable smart-contract](https://github.com/kuzminklk/upgradability)
+- [Ethereum](https://github.com/kuzminklk/account-abstraction-ethereum) and [ZKsync](https://github.com/kuzminklk/account-abstraction-zksync) account abstraction
+- [DAO](https://github.com/kuzminklk/dao)
+
+**Web**
 - [Personal website](https://kuzminklk.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
+
