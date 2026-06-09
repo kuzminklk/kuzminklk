@@ -33,6 +33,8 @@ Speak three languages: English, Russian, Belarusian
 - [Upgradable smart-contract](https://github.com/kuzminklk/upgradability)
 - [Ethereum](https://github.com/kuzminklk/account-abstraction-ethereum) and [ZKsync](https://github.com/kuzminklk/account-abstraction-zksync) account abstraction
 - [DAO](https://github.com/kuzminklk/dao)
+- [Fund me](https://github.com/kuzminklk/fund-me)
+- [Raffle](https://github.com/kuzminklk/raffle)
 
 **Web**
 - [Personal website](https://kuzminklk.vercel.app/)
