@@ -25,7 +25,7 @@ Speak three languages: English, Russian, Belarusian
 
 ## 💼 Selected projects
 **Smart-contracts (Ethereum, ZKsync)**  
-- [NFT](https://github.com/kuzminklk/nft)
+- [NFT 🖼️](https://github.com/kuzminklk/nft)
 - [Algorithmic stablecoin 💵](https://github.com/kuzminklk/stablecoin)
 - [Cross-chain rebase token 🌉](https://github.com/kuzminklk/rebase-token)
 - [Airdrop via Merkle Tree and with sign feature 💰](https://github.com/kuzminklk/airdrop)
@@ -33,14 +33,14 @@ Speak three languages: English, Russian, Belarusian
 - [Ethereum](https://github.com/kuzminklk/account-abstraction-ethereum) and [ZKsync](https://github.com/kuzminklk/account-abstraction-zksync) account abstraction
 - [DAO 🏛️](https://github.com/kuzminklk/dao)
 - [Fund me](https://github.com/kuzminklk/fund-me)
-- [Raffle](https://github.com/kuzminklk/raffle)
+- [Raffle 🤑](https://github.com/kuzminklk/raffle)
 - [ERC-20 Strawberry token 🍓](https://github.com/kuzminklk/erc-20)
 
 **Smart-contracts (Ethereum, ZKsync) plus Web UI**  
+- [Buy me a coffee! ☕](https://buy-me-a-coffee-pixelated.vercel.app/)
 
 **Web UI**
 - [To-dos 📋](https://to-dos-phi.vercel.app/)
-- [Buy me a coffee! ☕](https://buy-me-a-coffee-pixelated.vercel.app/)
-- [Personal website](https://kuzminklk.vercel.app/)
+- [Personal website 📜](https://kuzminklk.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
 
