@@ -17,7 +17,7 @@ Speak three languages: English, Russian, Belarusian
 **Front-end**: HTML, CSS, JavaScript → React, TypeScript, Tailwind, Next.js, Playwright  
 **Back-end**: Python → Django, JavaScript → Node.js, Express → Next.js  
 **Blockchain**: Solidity, Foundry, Hardhat  
-**Web-3 Front-end** : viem, wagmi, ethers.js, RaibowKit  
+**Web-3 Front-end**: viem, wagmi, ethers.js, RaibowKit  
 **Tools**: Docker, Git, GitHub, Notion, VS Code  
 **AI**: LLMs (Gemini, ChatGPT, Deepseek), agents  
 **Soft-skills**: Communication, Discipline, Education, Health and Activity, Information Diving  
