@@ -24,19 +24,23 @@ Speak three languages: English, Russian, Belarusian
 ***Additional***: *Design* → *Photos*, *Web-design*, *Drawing*; *Music* → *Guitar*; *Sports* → *Wrestling*; *Writing* → *Poetry*, *Philosophy essays*
 
 ## 💼 Selected projects
-**Web 3**  
-- [ERC-20 token](https://github.com/kuzminklk/erc-20)
+**Smart-contracts (Ethereum, ZKsync)**  
 - [NFT](https://github.com/kuzminklk/nft)
-- [Algorithmic stablecoin](https://github.com/kuzminklk/stablecoin)
-- [Cross-chain rebase token](https://github.com/kuzminklk/rebase-token)
-- [Airdrop via Merkle Tree and with sign feature](https://github.com/kuzminklk/airdrop)
+- [Algorithmic stablecoin 💵](https://github.com/kuzminklk/stablecoin)
+- [Cross-chain rebase token 🌉](https://github.com/kuzminklk/rebase-token)
+- [Airdrop via Merkle Tree and with sign feature 💰](https://github.com/kuzminklk/airdrop)
 - [Upgradable smart-contract](https://github.com/kuzminklk/upgradability)
 - [Ethereum](https://github.com/kuzminklk/account-abstraction-ethereum) and [ZKsync](https://github.com/kuzminklk/account-abstraction-zksync) account abstraction
-- [DAO](https://github.com/kuzminklk/dao)
+- [DAO 🏛️](https://github.com/kuzminklk/dao)
 - [Fund me](https://github.com/kuzminklk/fund-me)
 - [Raffle](https://github.com/kuzminklk/raffle)
+- [ERC-20 Strawberry token 🍓](https://github.com/kuzminklk/erc-20)
 
-**Web**
+**Smart-contracts (Ethereum, ZKsync) plus Web UI**  
+
+**Web UI**
+- [To-dos 📋](https://to-dos-phi.vercel.app/)
+- [Buy me a coffee! ☕](https://buy-me-a-coffee-pixelated.vercel.app/)
 - [Personal website](https://kuzminklk.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
 
