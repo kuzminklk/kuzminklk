@@ -40,6 +40,8 @@ Speak three languages: English, Russian, Belarusian
 - [Buy me a coffee! ☕](https://buy-me-a-coffee-pixelated.vercel.app/)
 
 **Web UI**
+- [Moby Dick Web Book 📖](https://moby-dick-pi.vercel.app/)
+- [Monad Superboard 💟](https://superboard-eight.vercel.app/)
 - [To-dos 📋](https://to-dos-phi.vercel.app/)
 - [Personal website 📜](https://kuzminklk.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
