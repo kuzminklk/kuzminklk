@@ -44,5 +44,6 @@ Speak three languages: English, Russian, Belarusian
 - [Monad Superboard 💟](https://superboard-eight.vercel.app/)
 - [To-dos 📋](https://to-dos-phi.vercel.app/)
 - [Personal website 📜](https://kuzminklk.vercel.app/)
+- [Photos gallery 🖼️](https://partfolio-delta-orcin.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
 
