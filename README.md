@@ -39,6 +39,7 @@ Speak three languages: English, Russian, Belarusian
 **Smart-contracts (Ethereum, ZKsync) plus Web UI**  
 - [Buy me a coffee! ☕](https://buy-me-a-coffee-pixelated.vercel.app/)
 - [TSender (efficient airdrop sender) 💰](https://tsender-taupe.vercel.app/)
+- [Strawberry token Vendor 🍓](https://strawberry-vendor.vercel.app/)
 
 **Web UI**
 - [Moby Dick Web Book 📖](https://moby-dick-pi.vercel.app/)
