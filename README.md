@@ -34,12 +34,12 @@ Speak three languages: English, Russian, Belarusian
 - [DAO 🏛️](https://github.com/kuzminklk/dao)
 - [Fund me](https://github.com/kuzminklk/fund-me)
 - [Raffle 🤑](https://github.com/kuzminklk/raffle)
-- [ERC-20 Strawberry token 🍓](https://github.com/kuzminklk/erc-20)
+- [ERC-20 Token 🪙](https://github.com/kuzminklk/erc-20)
 
 **Smart-contracts (Ethereum, ZKsync) plus Web UI**  
 - [Buy me a coffee! ☕](https://buy-me-a-coffee-pixelated.vercel.app/)
 - [TSender (efficient airdrop sender) 💰](https://tsender-taupe.vercel.app/)
-- [Strawberry token Vendor 🍓](https://strawberry-vendor.vercel.app/)
+- [Strawberry Vendor 🍓](https://strawberry-vendor.vercel.app/)
 
 **Web UI**
 - [Moby Dick Web Book 📖](https://moby-dick-pi.vercel.app/)
