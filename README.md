@@ -48,4 +48,5 @@ Speak three languages: English, Russian, Belarusian
 - [Personal website 📜](https://kuzminklk.vercel.app/)
 - [Photos gallery 🖼️](https://partfolio-delta-orcin.vercel.app/)
 - [Lighter designboard](https://lighter-designboard.vercel.app/)
+- [Tic-tak-toe 🕹️](https://tic-tac-toe-grass.vercel.app/)
 
