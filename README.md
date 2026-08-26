@@ -19,7 +19,7 @@ Speak three languages: English, Russian, Belarusian
 **Blockchain**: Solidity, Foundry, Hardhat  
 **Web-3 Front-end**: viem, wagmi, ethers.js, RaibowKit  
 **Tools**: Docker, Git, GitHub, Notion, VS Code  
-**AI**: LLMs (Gemini, ChatGPT, DeepSeek), agents  
+**AI**: LLMs (Gemini, ChatGPT, DeepSeek, Claude), Codex, Claude Code, GitHub Copilot
 **Soft-skills**: Communication, Discipline, Education, Health and Activity, Information Diving  
 ***Additional***: *Design* → *Photos*, *Web-design*, *Drawing*; *Music* → *Guitar*; *Sports* → *Wrestling*; *Writing* → *Poetry*, *Philosophy essays*
 
