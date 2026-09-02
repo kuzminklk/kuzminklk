@@ -36,15 +36,16 @@ Speak three languages: English, Russian, Belarusian
 - [Raffle 🤑](https://github.com/kuzminklk/raffle)
 - [ERC-20 Token 🪙](https://github.com/kuzminklk/erc-20)
 
-**Smart-contracts (Ethereum, ZKsync) plus Web UI**  
+**Smart-contracts (Ethereum, ZKsync) plus Web user interface**  
 - [Buy me a coffee! ☕](https://buy-me-a-coffee-pixelated.vercel.app/)
 - [TSender (efficient airdrop sender) 💰](https://tsender-taupe.vercel.app/)
 - [Strawberry Vendor 🍓](https://strawberry-vendor.vercel.app/)
 
-**Web UI**
+**Web user interfaces**
 - [Central Park Cafe ☕](https://central-park-volkovysk.vercel.app/) *Vibecoded*
 - [Belarus Digital 🇧🇾](https://belarus-digital.vercel.app/) *Vibecoded*
 - [Cosmo's Company 🌌](https://cosmos-company.vercel.app/) *Vibecoded*
+- [Star Runner](https://t.me/star_runner_cool_bot) *Vibecoded* *Telegram application*
 - [Moby Dick Web Book 📖](https://moby-dick-pi.vercel.app/)
 - [Monad Superboard 💟](https://superboard-eight.vercel.app/)
 - [To-dos 📋](https://to-dos-phi.vercel.app/)
