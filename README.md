@@ -45,7 +45,7 @@ Speak three languages: English, Russian, Belarusian
 - [Central Park Cafe ☕](https://central-park-volkovysk.vercel.app/) *Vibecoded*
 - [Belarus Digital 🇧🇾](https://belarus-digital.vercel.app/) *Vibecoded*
 - [Cosmo's Company 🌌](https://cosmos-company.vercel.app/) *Vibecoded*
-- [Star Runner](https://t.me/star_runner_cool_bot) *Vibecoded* *Telegram application*
+- [Star Runner 🌌](https://t.me/star_runner_cool_bot) *Vibecoded, Telegram application*
 - [Moby Dick Web Book 📖](https://moby-dick-pi.vercel.app/)
 - [Monad Superboard 💟](https://superboard-eight.vercel.app/)
 - [To-dos 📋](https://to-dos-phi.vercel.app/)
