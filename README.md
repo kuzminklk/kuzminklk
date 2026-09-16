@@ -15,10 +15,10 @@ Speak three languages: English, Russian, Belarusian
 
 **Fundamentals**: C, Operational Systems (Windows, Linux, Android), Algorithms, Data Structures, Web (IP/TCP, HTTPS), Hardware  
 **Front-end**: HTML, CSS, JavaScript → React, TypeScript, Tailwind, Next.js, Playwright  
-**Back-end**: Python → Django, JavaScript → Node.js, Express → Next.js  
-**Blockchain**: Solidity, Foundry, Hardhat  
-**Web-3 Front-end**: viem, wagmi, ethers.js, RaibowKit  
-**Tools**: Docker, Git, GitHub, Notion, VS Code  
+**Back-end**: Python → Django, JavaScript → Node.js, Express → Next.js → next-intl  
+**Blockchain**: Solidity, Foundry, Hardhat, Chainlink  
+**Web-3 Front-end**: viem, wagmi, ethers.js, RaibowKit, Connect Kit, App Kit  
+**Tools**: Docker, Git, GitHub, Notion, Visual Studio Code, ESLint, Prettier    
 **AI**: LLMs (Gemini, ChatGPT, DeepSeek, Claude), Codex, Claude Code, GitHub Copilot
 **Soft-skills**: Communication, Discipline, Education, Health and Activity, Information Diving  
 ***Additional***: *Design* → *Photos*, *Web-design*, *Drawing*; *Music* → *Guitar*; *Sports* → *Wrestling*; *Writing* → *Poetry*, *Philosophy essays*
