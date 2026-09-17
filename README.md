@@ -20,7 +20,7 @@ Speak three languages: English, Russian, Belarusian
 **Web-3 Front-end**: viem, wagmi, ethers.js, RaibowKit, Connect Kit, App Kit  
 **Deployment**: Vercel, Husky, lint-staged  
 **Tools**: Docker, Git, GitHub, Notion, Visual Studio Code, Prettier  
-**Artificial Intelligence**: LLMs (Gemini, ChatGPT, DeepSeek, Claude), Codex, Claude Code, GitHub Copilot
+**Artificial Intelligence**: LLMs (Gemini, ChatGPT, DeepSeek, Claude), Codex, Claude Code, GitHub Copilot  
 **Soft skills**: Communication, Discipline, Education, Health and Activity, Information Diving  
 ***Additional***: *Design* → *Photos*, *Web-design*, *Drawing*; *Music* → *Guitar*; *Sports* → *Wrestling*; *Writing* → *Poetry*, *Philosophy essays*
 
