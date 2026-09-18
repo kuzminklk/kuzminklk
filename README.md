@@ -18,7 +18,7 @@ Speak three languages: English, Russian, Belarusian
 **Back-end**: Python → Django, JavaScript → Node.js, Express → Next.js → next-intl  
 **Blockchain**: Solidity, Foundry, Hardhat, Chainlink  
 **Web-3 Front-end**: ethers.js, Viem, Wagmi, RaibowKit, Connect Kit, App Kit  
-**Deployment**: Vercel, Husky, lint-staged  
+**Deployment**: Vercel, Husky, lint-staged, Open Graph, Search Engine Optimization  
 **Tools**: Docker, Git, GitHub, Notion, Visual Studio Code, Prettier  
 **Artificial Intelligence**: LLMs (Gemini, ChatGPT, DeepSeek, Claude), Codex, Claude Code, GitHub Copilot  
 **Soft skills**: Communication, Discipline, Education, Health and Activity, Information Diving  
